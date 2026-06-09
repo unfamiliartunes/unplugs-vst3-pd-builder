@@ -1,10 +1,10 @@
 [
   {
-    "name": "N-TILT",
-    "author": "Nasko",
-    "path": "Plugins/N-TILT.zip",
-    "patch": "N-TILT.pd",
-    "formats": ["VST3", "AU", "LV2", "CLAP", "Standalone"],
+    "name": "piripiri",
+    "author": "(un)familiar.",
+    "path": "Plugins/piripiri.zip",
+    "patch": "piripiri.pd",
+    "formats": ["VST3", "AU", "LV2", "CLAP"],
     "type": "fx",
     "version": "1.0.0",
     "enable_gem": false,
